@@ -1,0 +1,106 @@
+#Tic Tac Toe
+PS C:\Users\Lenovo\cognifyz\Level2> java TicTacToe
+-------------
+|   |   |   | 
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Player X, enter your move (row [1-3] and column [1-3]):
+1 3
+-------------
+|   |   | X |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Player O, enter your move (row [1-3] and column [1-3]):
+2 0
+Invalid move. Try again.
+-------------
+|   |   | X |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Player O, enter your move (row [1-3] and column [1-3]):
+2 2
+-------------
+|   |   | X |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+Player X, enter your move (row [1-3] and column [1-3]):
+3 1
+-------------
+|   |   | X |
+-------------
+|   | O |   |
+-------------
+| X |   |   |
+-------------
+Player O, enter your move (row [1-3] and column [1-3]):
+3 3
+-------------
+|   |   | X |
+-------------
+|   | O |   |
+-------------
+| X |   | O |
+-------------
+Player X, enter your move (row [1-3] and column [1-3]):
+1 1
+-------------
+| X |   | X |
+-------------
+|   | O |   |
+-------------
+| X |   | O |
+-------------
+Player O, enter your move (row [1-3] and column [1-3]):
+1 2
+-------------
+| X | O | X |
+-------------
+|   | O |   |
+-------------
+| X |   | O |
+-------------
+Player X, enter your move (row [1-3] and column [1-3]):
+2 1
+-------------
+| X | O | X |
+-------------
+| X | O |   |
+-------------
+| X |   | O |
+-------------
+? Player X wins!
+Do you want to play another round? (yes/no): no
+Thanks for playing!
+
+#Password Strength Checker
+PS C:\Users\Lenovo\cognifyz\Level2> java PasswordStrengthChecker
+Enter your password: AgAdi15.01.08_
+Password Strength: Strong
+
+#File Encryption Decryption
+PS C:\Users\Lenovo\cognifyz\Level2> java FileEncryptDecrypt
+File Encryption/Decryption Program
+Do you want to encrypt or decrypt? (e/d): e
+Enter the key (number): 3
+Enter input file name: input.txt
+Enter output file name: encrypted.txt
+File encrypted successfully.
+PS C:\Users\Lenovo\cognifyz\Level2> java FileEncryptDecrypt
+File Encryption/Decryption Program
+Do you want to encrypt or decrypt? (e/d): d
+Enter the key (number): 3
+Enter input file name: encrypted.txt
+Enter output file name: decrypted.txt
+File decrypted successfully.

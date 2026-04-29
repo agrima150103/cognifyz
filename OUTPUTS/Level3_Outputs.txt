@@ -1,0 +1,32 @@
+# Implement a Chat Application
+PS C:\Users\Lenovo\cognifyz\Level3> java ChatServer
+>>
+Server started. Waiting for client...
+PS C:\Users\Lenovo\cognifyz> cd "C:\Users\Lenovo\cognifyz\Level3"
+>>
+PS C:\Users\Lenovo\cognifyz\Level3> java ChatClient
+Client connected.
+Client: hi
+Server: hi what can i help u with?
+
+#Create a Multi-threaded Application
+PS C:\Users\Lenovo\cognifyz\Level3> javac MultiThreadedApp.java
+>>
+PS C:\Users\Lenovo\cognifyz\Level3> java MultiThreadedApp
+>>
+Thread-1 is going to withdraw $700
+Thread-1 completed withdrawal. Remaining balance: $300 
+Thread-2 tried to withdraw $500 but not enough balance.
+Final balance: $300
+
+#Build a Desktop Application
+hi my name is jerry and i am tom's lil mouse
+
+#Currency Converter
+PS C:\Users\Lenovo\cognifyz\Level3> java -cp ".;json-20210307.jar" CurrencyConverter
+>>
+Currency Converter (Simulated API)
+Enter base currency code (e.g., USD): USD
+Enter target currency code (e.g., INR): INR
+Enter amount: 10
+10.00 USD = 830.00 INR
