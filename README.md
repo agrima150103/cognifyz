@@ -14,8 +14,8 @@
 
 <br />
 
-**Developed by Agrima Saxena**
-Java Development Intern at Cognifyz Technologies
+
+Java Development Internship at Cognifyz Technologies
 
 </div>
 
@@ -302,14 +302,9 @@ Desktop Applications
 ## Author
 
 **Agrima Saxena**
+
 Software Engineering · Backend Development · Applied AI · Cybersecurity
 
-[GitHub](https://github.com/agrima150103)
-
-<div align="center">
 
 Built during the Cognifyz Java Development Internship
-
 If this repository helped you understand Java development, consider giving it a ⭐
-
-</div>
