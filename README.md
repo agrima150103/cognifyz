@@ -303,8 +303,4 @@ Desktop Applications
 
 **Agrima Saxena**
 
-Software Engineering · Backend Development · Applied AI · Cybersecurity
-
-
-Built during the Cognifyz Java Development Internship
 If this repository helped you understand Java development, consider giving it a ⭐
